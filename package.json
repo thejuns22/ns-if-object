@@ -1,0 +1,20 @@
+{
+    "name": "ns-if-object",
+    "version": "1.0.0",
+    "description": "NetSuite Assesment Test",
+    "main": "jcm_generate_json_if.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/thejuns22/ns-if-object.git"
+    },
+    "author": "Junnel C. Mercado",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/thejuns22/ns-if-object/issues"
+    },
+    "homepage": "https://github.com/thejuns22/ns-if-object#readme",
+    "type": "module"
+}
